@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mainamichael2849@gmail.com**
 
-- ⚡ Fun fact **I think I love 🤣fun stuff. Like Bugs!!**
+- ⚡ Fun fact **I think I love 🤣fun stuff. Like Bugs!!** 🤣
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
