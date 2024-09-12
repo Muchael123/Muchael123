@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&color=2BF715FF&center=true&vCenter=true&width=446&lines=Hello+%F0%9F%91%8B;I'm+Michael+Maina;I+currently+work+at+MMMUST-Ihub;And+I+love+coffee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&color=2BF715FF&center=true&vCenter=true&width=446&lines=Hello+%F0%9F%91%8B;I'm+Michael+Maina;I+currently+work+at+MMMUST-Ihub;And+I+love+coffee...)](https://git.io/typing-svg)
 
 <details><summary><b>Work at MMust-IHub</b></summary>
 
