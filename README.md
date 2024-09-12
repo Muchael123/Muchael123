@@ -29,7 +29,7 @@ I am a student at mmust and also the current [MMUST-Ihub](https://mmust-ihub.ver
 <details><summary><b>Languages and Tools I've Used</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,git,github,azure,vercel,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,git,github,azure,vercel,vscode&perline=7&theme=dark" />
 </p>
 <br><br>
 
