@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋;I'm+Michael+Maina;I+currently+work+at+mmust+Ihub;And+I+love+coffee)](https://git.io/typing-svg)
 <a href="https://my-portfolio-sepia-six.vercel.app">
   <img
     alt="I want to make art and develop wonders that hundres of thousands will come see, \n and I wan to make it with the funnest, most talented team of my own" width="750"
