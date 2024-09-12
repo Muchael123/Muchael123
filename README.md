@@ -6,6 +6,18 @@ I am a student at mmust and also the current [MMUST-Ihub](https://mmust-ihub.ver
 
 </details>
 
+<details><summary><b>My GitHub Stats and Streak</b></summary>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Muchael123&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=Muchael123&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Muchael123's GitHub streak stats" /></p>
+
+<!-- <p align="center"><img src="https://github-readme-stats-flax-seven-13.vercel.app?user=Muchael123&theme=react&border_radius=5&fire=FF0000&ring=FF0000&currStreakNum=FF0000" alt="Muchael123's GitHub streak stats" /></p> -->
+
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Muchael123=react&border_radius=5&fire=FF0000&ring=FF0000&currStreakNum=FF0000" alt="Muchael123's GitHub streak stats" /></p> -->
+
+</details>
+
 <details><summary><b>Recently I started doing some writing. Here are a few articles.</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
