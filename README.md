@@ -18,6 +18,23 @@ I am a student at mmust and also the current [MMUST-Ihub](https://mmust-ihub.ver
 
 </details>
 
+<details><summary><b>My GitHub Trophy Collection</b></summary>
+
+<p align="center">
+<img alig src="https://github-profile-trophy.vercel.app/?username=Muchael123&margin-w=8&column=4&title=MultipleLang,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues&theme=darkhub&no-frame=true" alt="github trophies" />
+</p>
+
+</details>
+
+<details><summary><b>Languages and Tools I've Used</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,git,github,azure,vercel,vscode&perline=7" />
+</p>
+<br><br>
+
+</details>
+
 <details><summary><b>Recently I started doing some writing. Here are a few articles.</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
