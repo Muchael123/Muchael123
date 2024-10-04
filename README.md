@@ -38,7 +38,7 @@ I am a student at mmust and also the current [MMUST-Ihub](https://mmust-ihub.ver
 <details><summary><b>Recently I started doing some writing. Here are a few articles.</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
- [Introduction to nodejs!](https://dev.to/usmcamgrimm/hello-my-name-is-adrian-grimm-2pn3)  BLOG-POST-LIST:END
+ [Introduction to nodejs!](https://installing-node-js.hashnode.dev/introduction-to-nodejs)
 
 </details>
 
