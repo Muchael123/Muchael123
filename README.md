@@ -43,7 +43,7 @@ I am a student at mmust and also the current [MMUST-Ihub](https://mmust-ihub.ver
 </details>
 
 
-<a href="https://my-portfolio-sepia-six.vercel.app">
+<a href="https://michael-maina.me/#about-me">
   <img
     alt="I want to make art and develop wonders that hundres of thousands will come see, \n and I wan to make it with the funnest, most talented team of my own" width="750"
     src="https://github.com/Muchael123/Muchael123/blob/main/Maich.jpeg"
