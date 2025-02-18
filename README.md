@@ -37,9 +37,10 @@ I am a student at mmust and also the current [MMUST-Ihub](https://mmust-ihub.ver
 </details>
 ## </ GitHub Stats >
 
-![](https://github-readme-stats.vercel.app/api?username=Muchael123&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muchael123&theme=shades-of-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muchael123&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchael123&layout=compact&langs_count=103&theme=shades-of-purple"/></a>&nbsp
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Muchael123&count_private=true&show_icons=true3&theme=shades-of-purple"/></a>
+</p>
 
 <details><summary><b>Recently I started doing some writing. Here are a few articles...</b></summary>
 
