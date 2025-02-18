@@ -35,8 +35,8 @@ I am a student at mmust and also the current [MMUST-Ihub](https://mmust-ihub.ver
 <br><br>
 
 </details>
-## GitHub Stats 
 
+## GitHub Stats
 <p align="center">
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchael123&layout=compact&langs_count=103&theme=shades-of-purple"/></a>&nbsp
   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Muchael123&count_private=true&show_icons=true3&theme=shades-of-purple"/></a>
